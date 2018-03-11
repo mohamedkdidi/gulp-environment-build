@@ -1,0 +1,78 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Open Sans, Arial, sans-serif;
+  line-height: 21px;
+  color: #688197;
+  font-weight: 300;
+  padding: 0;
+  /*height: 100%;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #688197;
+  font-variant: small-caps;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+.dark {
+  background: #1d4466;
+}
+
+.light {
+  background: #f2f8ff;
+}
+
+.primary {
+  background: #688197;
+}
+
+.secondary {
+  background: #0852c2;
+}
+
+.p5 {
+  padding: 5px;
+}
+
+.p10 {
+  padding: 10px;
+}
+
+.p20 {
+  padding: 20px;
+}
+
+.p30 {
+  padding: 30px;
+}
