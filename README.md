@@ -1,6 +1,3 @@
-# Front-end development environment using gulp [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-
-
 # Gulp fron­tend work­flow automa­tion
 
 * Com­piles SCSS to CSS, using a cache to make it faster.
