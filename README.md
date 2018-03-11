@@ -8,27 +8,46 @@
 * Zip the build.
 * Clean dist folder.
 
-## Installation
+
+# Setup
+
+## Get the code:
+
+```
+git clone https://github.com/mohamedkdidi/gulp-environment-build.git
+```
+
+## Install dependencies:
+
+### Using npm
 
 ```sh
+  $ cd gulp-environment-build
   $ npm install
 ```
 
-Using yarn
+### Using yarn
 
 ```sh
+  $ cd gulp-environment-build
   $ yarn install
 ```
 
-## Run
+## Run the server:
 
 ```sh
   $ gulp
 ```
 
-
+## Point a web browser at the demo:
+```
 http://localhost:8080/
+```
 
 ## License
 
 MIT © [Mohamed Kdidi](https://mohamedkdidi.github.io)
+
+
+## Send Thanks
+Bitcoin greatfully accepted: `37btVdM6R4yJFCaiKLS4HuXevR6K1ZX2tv`
