@@ -1,6 +1,6 @@
 # Front-end development environment using gulp 
 
-![alt text](img/src/gulp.png)
+<img align="center" widht="600" src="./src/img/gulp.png">
 
 # Gulp fron­tend work­flow automa­tion
 
