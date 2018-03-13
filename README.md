@@ -1,5 +1,6 @@
 # Front-end development environment using gulp [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
+![alt text](img/src/gulp.png)
 
 # Gulp fron­tend work­flow automa­tion
 
