@@ -6,7 +6,7 @@
 
 * Com­piles SCSS to CSS, using a cache to make it faster.
 * Auto-pre­fix­es CSS for the browsers we support.
-* Ugli­fies JavaScripts.
+* Ugli­fies JavaScript.
 * Han­dles live reloading.
 * Compress the images.
 * Zip the build.
